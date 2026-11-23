@@ -738,5 +738,5 @@ B.Sc. in Computer Science & Engineering
 
 Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
-- **GitHub:** [[Your GitHub Profile](YOUR_GITHUB_URL)](https://github.com/Rakib2316?tab=repositories)
-- **LinkedIn:** [[Your LinkedIn Profile](YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/md-jahidul-islam-rakib-67093336b/)
+- **GitHub:** [(YOUR_GITHUB_URL)](https://github.com/Rakib2316?tab=repositories)
+- **LinkedIn:** [(YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/md-jahidul-islam-rakib-67093336b/)
