@@ -679,7 +679,6 @@ Based on the 15 SQL analyses, the following areas of business performance and cu
 6. **Sales Timing:** Monthly and shift-based analyses help identify important sales periods.
 7. **Purchase Patterns:** Weekday and weekend comparisons reveal differences in customer purchasing activities.
 
-*Note: Specific rankings and numerical findings should be added after reviewing the actual query outputs.*
 
 # 💡 6. Business Recommendations
 
@@ -738,5 +737,5 @@ B.Sc. in Computer Science & Engineering
 
 Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
-- **GitHub:** [(YOUR_GITHUB_URL)](https://github.com/Rakib2316?tab=repositories)
-- **LinkedIn:** [(YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/md-jahidul-islam-rakib-67093336b/)
+- **GitHub:** [Visit My GitHub Profile](https://github.com/Rakib2316?tab=repositories)
+- **LinkedIn:** [Connect with Me on LinkedIn](https://www.linkedin.com/in/md-jahidul-islam-rakib-67093336b/)
