@@ -608,7 +608,8 @@ SELECT
         ELSE 'Frequent Customer'
     END AS "Customer Type"
 FROM retail_sales
-GROUP BY 1;
+GROUP BY 1
+order BY 1
 ```
 
 **Query Output:**
