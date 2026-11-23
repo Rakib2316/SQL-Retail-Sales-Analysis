@@ -680,32 +680,7 @@ Based on the 15 SQL analyses, the following areas of business performance and cu
 7. **Purchase Patterns:** Weekday and weekend comparisons reveal differences in customer purchasing activities.
 
 
-# 💡 6. Business Recommendations
-
-Based on the analytical framework and findings, the following business strategies can be considered:
-
-### 1. Improve Category Performance
-Focus on high-performing product categories while investigating opportunities to improve sales in lower-performing categories.
-
-### 2. Strengthen Customer Retention
-Develop loyalty programs and personalized offers for frequent and high-value customers.
-
-### 3. Encourage Repeat Purchases
-Introduce targeted promotions and follow-up campaigns to convert one-time and occasional customers into regular buyers.
-
-### 4. Implement Targeted Marketing
-Use customer age groups and gender-based purchasing patterns to develop relevant promotional campaigns.
-
-### 5. Optimize Sales Operations
-Use shift-based transaction patterns to allocate staff and operational resources more effectively.
-
-### 6. Plan Seasonal Promotions
-Use monthly sales trends to identify important sales periods and prepare promotional campaigns accordingly.
-
-### 7. Develop Customer Spending Strategies
-Offer suitable product recommendations and promotional incentives to encourage customers to increase their purchase value.
-
-# 🎓 7. Key Learnings
+# 🎓 6. Key Learnings
 
 Through this project, I strengthened my practical SQL skills in:
 
@@ -721,7 +696,7 @@ Through this project, I strengthened my practical SQL skills in:
 - Customer segmentation.
 - Translating business requirements into SQL queries.
 
-# 📝 8. Conclusion
+# 📝 7. Conclusion
 
 This Retail Sales Analysis project demonstrates how SQL can be used to transform raw transaction data into meaningful business insights.
 
