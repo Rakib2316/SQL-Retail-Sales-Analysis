@@ -252,7 +252,7 @@ GROUP BY 1;
 
 **Query Output:**
 
-![Q3 Output](images/03_category_wise_sales.png)
+![Q3 Output](<./All Output Image/Image 3.png>)
 
 **Finding:**
 
@@ -277,7 +277,7 @@ WHERE category = 'Beauty';
 
 **Query Output:**
 
-![Q4 Output](images/04_average_age_beauty.png)
+![Q4 Output](<./All Output Image/Image 4.png>)
 
 **Finding:**
 
@@ -301,7 +301,7 @@ WHERE total_sale > 1000;
 
 **Query Output:**
 
-![Q5 Output](images/05_high_value_transactions.png)
+![Q5 Output](<./All Output Image/Image 5.png>)
 
 **Finding:**
 
@@ -328,7 +328,7 @@ GROUP BY 1, 2;
 
 **Query Output:**
 
-![Q6 Output](images/06_gender_category_transactions.png)
+![Q6 Output](<./All Output Image/Image 6.png>)
 
 **Finding:**
 
@@ -367,7 +367,7 @@ WHERE rank = 1;
 
 **Query Output:**
 
-![Q7 Output](images/07_best_selling_month.png)
+![Q7 Output](<./All Output Image/Image 7.png>)
 
 **Finding:**
 
@@ -402,7 +402,7 @@ WHERE "Rank" <= 5;
 
 **Query Output:**
 
-![Q8 Output](images/08_top_5_customers.png)
+![Q8 Output](<./All Output Image/Image 8.png>)
 
 **Finding:**
 
@@ -428,7 +428,7 @@ GROUP BY 1;
 
 **Query Output:**
 
-![Q9 Output](images/09_category_wise_customers.png)
+![Q9 Output](<./All Output Image/Image 9.png>)
 
 **Finding:**
 
@@ -469,7 +469,7 @@ GROUP BY 1;
 
 **Query Output:**
 
-![Q10 Output](images/10_sales_shift_analysis.png)
+![Q10 Output](<./All Output Image/Image 10.png>)
 
 **Finding:**
 
@@ -495,7 +495,7 @@ GROUP BY 1;
 
 **Query Output:**
 
-![Q11 Output](images/11_gender_wise_sales.png)
+![Q11 Output](<./All Output Image/Image 11.png>)
 
 **Finding:**
 
@@ -527,7 +527,7 @@ GROUP BY 1;
 
 **Query Output:**
 
-![Q12 Output](images/12_weekday_weekend_analysis.png)
+![Q12 Output](<./All Output Image/Image 12.png>)
 
 **Finding:**
 
@@ -569,7 +569,7 @@ GROUP BY 1;
 
 **Query Output:**
 
-![Q13 Output](images/13_age_group_sales.png)
+![Q13 Output](<./All Output Image/Image 13.png>)
 
 **Finding:**
 
@@ -614,7 +614,7 @@ order BY 1
 
 **Query Output:**
 
-![Q14 Output](images/14_purchase_frequency.png)
+![Q14 Output](<./All Output Image/Image 14.png>)
 
 **Finding:**
 
@@ -659,7 +659,7 @@ ORDER BY 1;
 
 **Query Output:**
 
-![Q15 Output](images/15_customer_spending.png)
+![Q15 Output](<./All Output Image/Image 15.png>)
 
 **Finding:**
 
