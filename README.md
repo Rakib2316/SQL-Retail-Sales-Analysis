@@ -200,7 +200,7 @@ WHERE sale_date = '2022-11-05';
 
 **Query Output:**
 
-[![Q1 Output](images/01_daily_sales.png)](https://github.com/Rakib2316/SQL-Retail-Sales-Analysis/blob/main/All%20Output%20Image/Image%201.png)
+![Q1 Output]([./images/01_daily_sales.png](https://github.com/Rakib2316/SQL-Retail-Sales-Analysis/blob/main/All%20Output%20Image/Image%201.png))
 
 **Finding:**
 
